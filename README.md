@@ -78,7 +78,7 @@ Benefits:
 
 * **Power BI & Data Storytelling:** Designed an intuitive UI with interactive drill-throughs, dynamic slicers, and conditional formatting to instantly surface high-risk transactions.
 * **DAX (Data Analysis Expressions):** Built parameter-driven measures enabling users to adjust materiality thresholds, modify cut-off testing windows, and dynamically identify high-risk transactions
-* **Data Modelling (Star Schema):** Built a robust, performance-optimised relational model connecting Fact tables (Transactions, AP Listing) with Dimension tables (Vendors, Dates).
+* **Data Modelling (Star Schema):** Built a relational model connecting Fact tables (Transactions, AP Listing) with Dimension tables (Vendors, Dates).
 * **Finance Knowledge:** Cut-off, Aging analysis, AP review procedures
 
 ---
