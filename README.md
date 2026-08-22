@@ -10,7 +10,7 @@
 </div>
 
 ## 📌 Executive Summary
-Finance and external audit procedures are traditionally manual and spreadsheet-heavy workflows. I developed this Power BI project to bridge **External Audit Methodology** with **Finance Transformation**. 
+Finance and external audit procedures are traditionally manual and spreadsheet-heavy workflows. I developed this Power BI project to bridge **Accounts Payable Analysis** with **Finance Transformation**. 
 
 This interactive analytics solution transforms static Accounts Payable (AP) procedures into a dynamic, parameter-driven automating cut-off testing, anomaly detection, and aging analysis. It demonstrates how scalable data modelling can reduce manual hours, improve transparency, and be tailored to different materiality thresholds.
 
